@@ -1,5 +1,4 @@
-export interface LeadDto {
-    id: number,
+export interface LeadPostDto {
     nome: string,
     sobrenome: string,
     email: string,

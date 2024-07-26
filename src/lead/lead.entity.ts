@@ -18,5 +18,5 @@ export class Lead {
     telefone: number;
 
     @Column({})
-    nascimento: number;
+    nascimento: Date;
 }
