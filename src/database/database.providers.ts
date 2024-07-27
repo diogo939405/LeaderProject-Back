@@ -9,7 +9,7 @@ export const databaseProviders = [
                 host: 'localhost',
                 port: 3306,
                 username: 'root',
-                password: 'Filand21*',
+                password: 'Lead123!',
                 database: 'functions',
                 entities: [
                     __dirname + '/../**/*.entity{.ts,.js}',
